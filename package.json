@@ -1,0 +1,27 @@
+{
+  "name": "hw-10-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generates a team profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hargis32/HW-10-Team-Profile-Generator.git"
+  },
+  "author": "Austin Pratt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hargis32/HW-10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/hargis32/HW-10-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
