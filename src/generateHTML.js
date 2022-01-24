@@ -53,7 +53,7 @@ const internCard = function (intern) {
         </div>
     </div>
     `;
-}
+};
 
 generateHTML = (data) => {
 
