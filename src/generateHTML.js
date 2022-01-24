@@ -115,3 +115,5 @@ const generateTeamPage = function (employeeCards) {
 </html>
     `
 }
+
+module.exports = generateHTML;
